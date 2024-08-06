@@ -25,7 +25,7 @@ At the end of the file you can run the pose estimation with a webcam that will g
 ## Webcam Examples (Please Reach out if you want these examples)
 I have already tested the real-time webcam and its logging capabilities, which you can see in the same folder this README is located in. There are 2 recordings of the webcam being used titled, **"Webcam - Front Facing.mp4**" and the other **"Webcam - Side Angle.mp4**". There are also 2 text files called **"Front Facing joint_coordinates_log.txt**" and **"Side Angle joint_coordinates_log.txt**" where all the information from webcam is being logged.  (Note: When you run this program it will create a file named joint_coordinate_log.txt as stated above and this will not override any data from the other file.). These videos show how the program looks when everything is running and what to expect. 
 
-### If you have any questions please feel free to contact me at omar.jamjoum@sjsu.edu
+### If you have any questions please feel free to contact me at omarjamjoumschool@gmail.com
 ### Thank you
 
 	
