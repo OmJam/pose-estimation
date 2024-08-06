@@ -1,4 +1,4 @@
-﻿# Pose Estimation Video and Webcam with Logging
+# Pose Estimation Video and Webcam with Logging
 
 Hello, In this folder there is a file called **"Pose Estimation Video and Webcam.ipynb"** which is the file that runs the pose estimation application. This .ipynb file marks that this is a Python Notebook file and the code is ran cells, or snippets of code. 
 
@@ -22,7 +22,7 @@ While running the cells you will eventually get to a section that says "Perform 
 
 At the end of the file you can run the pose estimation with a webcam that will give you real-time feedback. On the top left corner there is a timer for how long the application has been running, and below that is all the joints that are detected in the webcam, the frame they are in, and the coordinates of the joints. This information is also stored in **"joint_coordinates_log.txt"** which is created upon running this code and can be located in the same directory as the "Pose Estimation Video and Webcam.ipynb" file. This text file is created and has new data inserted into it every time it is ran. If you want to save the information from a specific webcam session you can duplicate the file by right clicking and select Copy and paste or right click and press Duplicate. 
 
-## Webcam Examples 
+## Webcam Examples (Please Reach out if you want these examples)
 I have already tested the real-time webcam and its logging capabilities, which you can see in the same folder this README is located in. There are 2 recordings of the webcam being used titled, **"Webcam - Front Facing.mp4**" and the other **"Webcam - Side Angle.mp4**". There are also 2 text files called **"Front Facing joint_coordinates_log.txt**" and **"Side Angle joint_coordinates_log.txt**" where all the information from webcam is being logged.  (Note: When you run this program it will create a file named joint_coordinate_log.txt as stated above and this will not override any data from the other file.). These videos show how the program looks when everything is running and what to expect. 
 
 ### If you have any questions please feel free to contact me at omar.jamjoum@sjsu.edu
